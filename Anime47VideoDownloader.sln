@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anime47VideoDownloader", "Anime47VideoDownloader\Anime47VideoDownloader.csproj", "{75898B52-F097-479F-8ED7-DA7C113B619F}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Installer", "Installer\Installer.aiproj", "{5C193C35-4994-4CAC-808E-5B059340E53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		All|x86 = All|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75898B52-F097-479F-8ED7-DA7C113B619F}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{75898B52-F097-479F-8ED7-DA7C113B619F}.All|Any CPU.Build.0 = Release|Any CPU
+		{75898B52-F097-479F-8ED7-DA7C113B619F}.All|x86.ActiveCfg = Release|x86
+		{75898B52-F097-479F-8ED7-DA7C113B619F}.All|x86.Build.0 = Release|x86
+		{75898B52-F097-479F-8ED7-DA7C113B619F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75898B52-F097-479F-8ED7-DA7C113B619F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75898B52-F097-479F-8ED7-DA7C113B619F}.Debug|x86.ActiveCfg = Debug|x86
+		{75898B52-F097-479F-8ED7-DA7C113B619F}.Debug|x86.Build.0 = Debug|x86
+		{75898B52-F097-479F-8ED7-DA7C113B619F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75898B52-F097-479F-8ED7-DA7C113B619F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75898B52-F097-479F-8ED7-DA7C113B619F}.Release|x86.ActiveCfg = Release|x86
+		{75898B52-F097-479F-8ED7-DA7C113B619F}.Release|x86.Build.0 = Release|x86
+		{5C193C35-4994-4CAC-808E-5B059340E53C}.All|Any CPU.ActiveCfg = DefaultBuild
+		{5C193C35-4994-4CAC-808E-5B059340E53C}.All|Any CPU.Build.0 = DefaultBuild
+		{5C193C35-4994-4CAC-808E-5B059340E53C}.All|x86.ActiveCfg = DefaultBuild
+		{5C193C35-4994-4CAC-808E-5B059340E53C}.All|x86.Build.0 = DefaultBuild
+		{5C193C35-4994-4CAC-808E-5B059340E53C}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{5C193C35-4994-4CAC-808E-5B059340E53C}.Debug|Any CPU.Build.0 = DefaultBuild
+		{5C193C35-4994-4CAC-808E-5B059340E53C}.Debug|x86.ActiveCfg = DefaultBuild
+		{5C193C35-4994-4CAC-808E-5B059340E53C}.Debug|x86.Build.0 = DefaultBuild
+		{5C193C35-4994-4CAC-808E-5B059340E53C}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{5C193C35-4994-4CAC-808E-5B059340E53C}.Release|Any CPU.Build.0 = DefaultBuild
+		{5C193C35-4994-4CAC-808E-5B059340E53C}.Release|x86.ActiveCfg = DefaultBuild
+		{5C193C35-4994-4CAC-808E-5B059340E53C}.Release|x86.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {360D9A44-23A0-4A86-944D-D7FE832EE0D9}
+	EndGlobalSection
+EndGlobal
